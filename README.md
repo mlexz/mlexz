@@ -2,7 +2,7 @@
 - 👀 I’m interested in building software in java and python
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on working with a team to develop software 
-- 📫 How to reach me:
+- 📫 How to reach me: +234813590235
 
 <!---
 mlexz/mlexz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
